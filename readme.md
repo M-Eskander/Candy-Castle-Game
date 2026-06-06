@@ -40,9 +40,8 @@ This was a custom business requirement — the timestamp system was designed and
 
 | Splash Screen | Gameplay | Discount Screen |
 |---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
-
-> Tip: drag your screenshots into this table after uploading them to the repo.
+|<img width="725" height="1568" alt="Splash Screen" src="https://github.com/user-attachments/assets/c3e71a5b-1855-4743-a687-4e63cf31853c" />|<img width="725" height="1568" alt="Gameplay" src="https://github.com/user-attachments/assets/ccc8bfe4-af36-4a61-8dfd-98a4f5218323" />
+ |<img width="725" height="1568" alt="Discount Screen" src="https://github.com/user-attachments/assets/4e42b30e-3aac-47dc-81e7-589b23641940" />|
 
 ---
 
@@ -59,4 +58,3 @@ Copying, modifying, distributing, or using this code in any form is strictly pro
 
 **Mohamed Eskander**  
 Game Developer & Creative Director  
-[GitHub](https://github.com/yourprofile) · [itch.io](https://itch.io/yourprofile) · [LinkedIn](https://linkedin.com/in/yourprofile)
